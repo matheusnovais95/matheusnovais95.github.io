@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Malgun Gothic", Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar {
+  background: #000;
+  width: 5px;
+  
+}
+
+::-webkit-scrollbar-thumb  {
+  background: #fff;
+  height: 300px;
+  scroll-behavior: smooth;
+}

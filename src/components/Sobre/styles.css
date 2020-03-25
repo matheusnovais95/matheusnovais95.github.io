@@ -1,0 +1,32 @@
+.container-pessoal {
+  background: #000;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container-pessoal h1 {
+  font-size: 40px;
+  color: #fff;
+  border: 10px solid #47B3B1;
+  padding: 10px;  
+  
+}
+
+.container-pessoal article {
+  padding: 20px;
+  width: 90vw;
+  height: 400px;
+  line-height: 55px;
+  
+}
+
+.container-pessoal article p {
+  color: #fff;
+  font-weight: 650;
+  font-size: 30px;
+  text-align: justify;
+}

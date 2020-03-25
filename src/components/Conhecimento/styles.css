@@ -1,0 +1,41 @@
+.container-hab {
+  background: #000;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  
+}
+
+.container-hab h1 {
+  font-size: 40px;
+  color: #fff;
+  border: 10px solid #A0FF8A;
+  padding: 10px;  
+  
+  
+}
+
+.container-hab article {
+  padding: 20px;
+  width: 50vw;
+  height: 200px;
+  line-height: 55px;  
+  padding: 20px;
+}
+
+.container-hab article li {
+  color: #fff;  
+  font-size: 30px;
+  list-style: none;
+  font-weight: 650;
+  text-align: justify;
+}
+
+.container-hab article li span {  
+  color: #A0FF8A;
+}
+
